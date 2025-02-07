@@ -1,4 +1,4 @@
-numpy
-matplotlib
-tqdm
-sympy
+numpy==1.24.2
+matplotlib==3.7.1
+tqdm==4.65.0
+sympy==1.12
