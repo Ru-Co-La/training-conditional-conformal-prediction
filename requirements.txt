@@ -1,0 +1,5 @@
+```bash
+numpy
+matplotlib
+tqdm
+sympy
