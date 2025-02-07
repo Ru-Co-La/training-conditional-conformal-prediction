@@ -13,9 +13,14 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/training-conditional-conformal.git
 cd training-conditional-conformal
 pip install -r requirements.txt
+```
 
-## Run the code
+## Running the Code
 To generate the PAC guarantee plots:
 
+```bash
 python code/conformal_prediction.py
+```
 
+## Citation
+If you use this code, please cite our paper at https://openreview.net/forum?id=pSk5qyt1ob.
